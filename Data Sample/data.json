@@ -1,0 +1,32 @@
+[
+    {
+        "payment_type": "0",
+        "oil_type": "2",
+        "date": "13-09-2018",
+        "qty": 10,
+        "unit_price": 800.00,
+        "amount": 8000.00,
+        "rating": null,
+        "car_no": "1A/1234"
+    },
+    {
+        "payment_type": "0",
+        "oil_type": "1",
+        "date": "13-09-2018",
+        "qty": 10,
+        "unit_price": 790.00,
+        "amount": 7900.00,
+        "rating": null,
+        "car_no": "1A/6867"
+    },
+    {
+        "payment_type": "0",
+        "oil_type": "2",
+        "date": "13-09-2018",
+        "qty": 10,
+        "unit_price": 810.00,
+        "amount": 8200.00,
+        "rating": null,
+        "car_no": "1A/4321"
+    }
+]
